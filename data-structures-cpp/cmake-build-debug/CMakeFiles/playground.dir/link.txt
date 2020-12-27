@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/playground.dir/pairwise_product.cpp.o CMakeFiles/playground.dir/main.cpp.o CMakeFiles/playground.dir/linked_list.cpp.o CMakeFiles/playground.dir/Queue_imp.cpp.o  -o playground 
