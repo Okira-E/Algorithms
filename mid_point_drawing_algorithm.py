@@ -1,6 +1,10 @@
-#!/usr/bin/python3
+"""
+THIS CODE IS NOT MINE, THE SOURCE IS:  https://www.geeksforgeeks.org/mid-point-circle-drawing-algorithm/
+"""
+
 # Python3 program for implementing
 # Mid-Point Circle Drawing Algorithm
+
 
 def midPointCircleDraw(x_centre, y_centre, r):
     x = r
@@ -76,7 +80,7 @@ if __name__ == '__main__':
 
     # To draw a circle of radius 3
     # centred at (0, 0)
-    midPointCircleDraw(0, 0, 8)
+    midPointCircleDraw(-1, 1, 5)
 
 
 # Contributed by: SHUBHAMSINGH10

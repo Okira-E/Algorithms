@@ -4,8 +4,8 @@
 int main()
 {
 
-    double x1 = 3, y1 = 3;
-    double x2 = -5, y2 = -3;
+    double x1 = 2, y1 = 4;
+    double x2 = -3, y2 = -6;
 
     double dx = x2 - x1;
     double dy = y2 - y1;
